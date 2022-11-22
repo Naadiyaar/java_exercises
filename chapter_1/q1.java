@@ -1,4 +1,4 @@
-// which one are suitable variable names in java
+// Quistion: which one are suitable variable names in java
 
 /*
  * a => MIX-UP
