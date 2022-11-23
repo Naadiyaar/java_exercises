@@ -1,3 +1,5 @@
+package programming_in_java_exercises.chapter_2;
+
 // write a program that generate below output:
 //   *
 // *   *
