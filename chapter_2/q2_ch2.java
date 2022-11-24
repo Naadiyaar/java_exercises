@@ -1,3 +1,24 @@
+/*
+ * Qusition: write program that get working hours and salary of an 
+ * employee and calculate his salary with and without 10% tax.
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Answer:
 import java.util.Scanner;
 
 public class q2_ch2 {
