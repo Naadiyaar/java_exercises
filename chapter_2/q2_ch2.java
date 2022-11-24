@@ -1,6 +1,6 @@
 /*
- * Qusition: write program that get working hours and salary of an 
- * employee and calculate his salary with and without 10% tax.
+ * Question: write a program that get working hours and salary per hour 
+ * of an employee and calculate his income with and without 10% tax.
  */
 
 
