@@ -70,3 +70,6 @@ public class q3_ch3 {
         }
     }
 }
+
+// get a char as input:
+// https://stackoverflow.com/questions/13942701/take-a-char-input-from-the-scanner
